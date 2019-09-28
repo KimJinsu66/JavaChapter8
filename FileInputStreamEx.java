@@ -2,7 +2,7 @@ import java.io.*;
 /**
  * 여기에 FileInputStreamEx 클래스 설명을 작성하십시오.
  * 
- * @author (작성자 이름) 
+ * @author (김진수) 
  * @version (버전번호나 날짜)
  */
 public class FileInputStreamEx
@@ -24,9 +24,8 @@ public class FileInputStreamEx
             System.out.println();
             fin.close();
         }catch(IOException e){
-            System.out.println("c:\\Temp\\test.out에서 읽지 못했습니다.");
+            System.out.println("c:\\Temp\\test.out에서 읽지 못했습니다.경로명을 체크해 보세용.");
             return;
         }
-        
-    }
+   }
 }

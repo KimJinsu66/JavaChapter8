@@ -5,7 +5,7 @@ import java.io.FileReader;
 /**
  * P447~P452
  * IOException : 입출력시에 지정한 파일이 시스템에 존재하지 않을 때
- * @author (작성자 이름) 
+ * @author (김진수) 
  * @version (2019.09.25 -> 수정)
  */
 public class InputStreamEx
